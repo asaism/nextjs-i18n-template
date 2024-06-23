@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-mnemonic-trainer",
+  "name": "nextjs-i18n-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,29 +14,29 @@
     "*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "i18next": "^23.8.2",
-    "i18next-resources-to-backend": "^1.2.0",
+    "i18next": "^23.11.5",
+    "i18next-resources-to-backend": "^1.2.1",
     "negotiator": "^0.6.3",
-    "next": "14.1.0",
-    "next-i18next": "^15.2.0",
+    "next": "14.2.4",
+    "next-i18next": "^15.3.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-i18next": "^14.0.5"
+    "react-i18next": "^14.1.2"
   },
   "devDependencies": {
     "@types/negotiator": "^0.6.3",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@vercel/style-guide": "^5.1.0",
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8.56.0",
-    "eslint-config-next": "^14.1.0",
+    "@vercel/style-guide": "^6.0.0",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.4",
     "eslint-config-prettier": "^9.1.0",
     "postcss": "^8",
-    "prettier": "^3.2.4",
-    "prettier-plugin-tailwindcss": "^0.5.11",
-    "tailwindcss": "^3.3.0",
+    "prettier": "^3.3.2",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.4",
     "typescript": "^5"
   },
   "volta": {
